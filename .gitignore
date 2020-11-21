@@ -1,0 +1,6 @@
+.ionide
+.paket
+.fable
+paket-files
+bin
+obj

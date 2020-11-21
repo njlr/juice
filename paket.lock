@@ -1,0 +1,25 @@
+STORAGE: NONE
+RESTRICTION: || (== netcoreapp3.1) (== netstandard2.0) (== netstandard2.1)
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Expecto (9.0.2)
+      FSharp.Core (>= 4.6)
+      Mono.Cecil (>= 0.11.2)
+    FSharp.Core (5.0)
+    Mono.Cecil (0.11.3)
+GITHUB
+  remote: xyncro/aether
+    src/Aether/Aether.fs (8dcbdc50190ac05851f4ccf57b356afbae5821a5)
+GROUP Test
+STORAGE: NONE
+RESTRICTION: || (== netcoreapp3.1) (== netstandard2.0) (== netstandard2.1)
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Expecto (9.0.2)
+      FSharp.Core (>= 4.6)
+      Mono.Cecil (>= 0.11.2)
+    FSharp.Core (5.0)
+    Mono.Cecil (0.11.3)
+GITHUB
+  remote: xyncro/aether
+    src/Aether/Aether.fs (8dcbdc50190ac05851f4ccf57b356afbae5821a5)
