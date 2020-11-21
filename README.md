@@ -1,4 +1,4 @@
-# juice
+# juice 🧃
 
 Computation Expression for building juicy games.
 
